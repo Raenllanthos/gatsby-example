@@ -30,12 +30,12 @@ export const aboutData = {
 export const projectsData = [
   // {
   //   id: nanoid(),
-  //   img: 'project.jpg',
-  //   title: '',
-  //   info: '',
-  //   info2: '',
+  //   img: 'superherocreator.jpg',
+  //   title: 'Super Hero Creator (WIP)',
+  //   info: 'Using React and Javascript, all users will be able to search for one hero, all heroes, or villans or heroes.',
+  //   info2: 'Users will need to be authenticated and authorized in order to Create, Update, and Delete the hereos that they make',
   //   url: '',
-  //   repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+  //   repo: 'https://github.com/Raenllanthos/superherocreator', // if no repo, the button will not show up
   // },
   {
     id: nanoid(),
