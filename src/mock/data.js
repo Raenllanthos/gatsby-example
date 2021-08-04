@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    "Coding Temple Graduate, Columbus State Community College Associate of Computer Science Student with a Game Developer Track.I'm a Python enthusiast with a passion for learning more languages. The more I learn, the more I can do. C# is next on my 'To Learn' list. Currently learning Godot Game Engine, and have experience using the Unity Game Engine",
+    "Coding Temple Graduate, Columbus State Community College Graduate with an Associate in Computer Science with a Game Developer Track. I'm a Python enthusiast with a passion for learning more languages. The more I learn, the more I can do. C# is next on my 'To Learn' list. Currently learning Godot Game Engine, and have experience using the Unity Game Engine",
   paragraphTwo:
     "My hobbies include music (I'm currently learning guitar/bass), playing video games (currently playing Halo: Master Chief Collection, Halo 5, Age of Empires 2, and Dark Souls 2.), and making video games (some nice people in my college class and I made a game called 'Gooey G'. Read on for more information!).",
   paragraphThree: 'Located in Columbus, Ohio, United States',
