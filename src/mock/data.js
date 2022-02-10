@@ -19,15 +19,25 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    "Coding Temple Graduate, Columbus State Community College Graduate with an Associate in Computer Science with a Game Developer Track. I'm a Python enthusiast with a passion for learning more languages. The more I learn, the more I can do. C# is next on my 'To Learn' list. Currently learning Godot Game Engine, and have experience using the Unity Game Engine",
+    'Coding Temple Graduate, Columbus State Community College Graduate with an Associate in Computer Science with a Game Developer Track. Pursuing a Bachelor of Computer Science at OSU, expected 2024 graduation.',
   paragraphTwo:
-    "My hobbies include music (I'm currently learning guitar/bass), playing video games (currently playing Halo: Master Chief Collection, Halo 5, Age of Empires 2, and Dark Souls 2.), and making video games (some nice people in my college class and I made a game called 'Gooey G'. Read on for more information!).",
+    "I'm a Python/C#/C++ enthusiast with a passion for learning more languages. The more I learn, the more I can do. I have experience with the Unity Game Engine and the Godot Game Engine. My hobbies include music, making video games and playing video games.",
   paragraphThree: 'Located in Columbus, Ohio, United States',
   resume: 'https://drive.google.com/file/d/1lzOTPN99wWd7q_MRs_GnYKW8UkbvbuAg/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: nanoid(),
+    img: 'samurai.png',
+    title: 'Godot Game Engine - Samurai Vs Ninja - Programmer',
+    info: 'Ascend the tower and escape the ninjas!',
+    info2:
+      'Game Developed for Global Game Jam 2022 with the theme "Duality" with a a diversifier of "Emotional Rollercoaster".',
+    url: 'https://globalgamejam.org/2022/games/samurai-vs-ninja-8', // if no url, the button will not show up
+    repo: '', // if no repo, the button will not show up
+  },
   {
     id: nanoid(),
     img: 'superherocreator.jpg',
@@ -51,7 +61,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'gooey.jpg',
-    title: 'Gooey G - Lead Programmer',
+    title: 'Unity Game Engine - Gooey G - Lead Programmer',
     info: "A CSCC Game Project for students in their last semester of Spring 2021. A group of about 11 students created this story of a slime named Gooey G who has to escape a tower he's trapped in.",
     info2:
       'Being Lead Programmer, my role was to make sure all of the programmers were doing their job and to make sure of all of the necessary script pieces fit where they needed to be.',
